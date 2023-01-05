@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Certification --></label>
+        <name>Certification_Classic</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Certification --></label>
+        <name>Certification_Lightning</name>
+    </customApplications>
+    <customLabels>
+        <label>Esta funcionalidad no está disponible actualmente.</label>
+        <name>Feature_Not_Available</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- AwInstructors --></label>
+        <name>AwInstructors</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- AwInstructors Cmp Tab --></label>
+        <name>AwInstructors_Cmp_Tab</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Deliveries Map --></label>
+        <name>Deliveries_Map</name>
+    </customTabs>
+    <prompts>
+        <name>SalesHVSDialer</name>
+        <promptVersions>
+            <name>Sales HVS Dialer</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EngagementAttributeTips</name>
+        <promptVersions>
+            <name>Engagement Attribute Tips</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCoreQuoteAdminCpq</name>
+        <promptVersions>
+            <name>Sales Core Quote Admin to CPQ</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>tabletFullWidthGA</name>
+        <promptVersions>
+            <name>TabletFullWidthGA</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EinsteinPredictionBuilderSetupPagePrompt</name>
+        <promptVersions>
+            <name>Einstein Prediction Builder Setup Page Prompt</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPLicenseDay1</name>
+        <promptVersions>
+            <name>NPSP License Day 1</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>X2StepWalkthroughonReports</name>
+        <promptVersions>
+            <name>2 Step Walkthrough on Reports Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>2 Step Walkthrough on Reports Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementExploreAnalyticsEnblAdmin</name>
+        <promptVersions>
+            <name>Explore Analytics</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPLicenseDay25</name>
+        <promptVersions>
+            <name>NPSP License Day 25</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>X4StepWalkthroughonContact</name>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 3</name>
+            <stepNumber>3</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>4 Step Walkthrough on Contact Step 4</name>
+            <stepNumber>4</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementExploreMeasuresEnblAdmin</name>
+        <promptVersions>
+            <name>Explore Measures</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>IAGFeatureAdoption</name>
+        <promptVersions>
+            <name>IAG Feature Adoption Step 2</name>
+            <stepNumber>2</stepNumber>
+        </promptVersions>
+        <promptVersions>
+            <name>IAG Feature Adoption Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>CDPOnboardingInAppGuidance</name>
+        <promptVersions>
+            <name>CDP Onboarding InApp Guidance</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementSwitchToProgramsEnblAdmin</name>
+        <promptVersions>
+            <name>Switch Between Measures and Programs Easily</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>MFARequirementAwareness</name>
+        <promptVersions>
+            <name>MFA Requirement Awareness</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>NPSPLicenseDay20</name>
+        <promptVersions>
+            <name>NPSP License Day 20</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>EnablementExploreProgramsEnblAdmin</name>
+        <promptVersions>
+            <name>Explore Programs</name>
+        </promptVersions>
+    </prompts>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+</Translations>
